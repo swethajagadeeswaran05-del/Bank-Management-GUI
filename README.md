@@ -22,3 +22,6 @@ This is a GUI-based Bank Management System built using Python (Tkinter) and MySQ
 
 3. Run:
    python bank_gui.py
+
+   ## Conclusion
+This project demonstrates database connectivity using ODBC and GUI development using Tkinter for a real-world banking system.
